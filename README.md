@@ -5,6 +5,9 @@ Just some app ideas I've had.  I wrote a [blog post](http://inchingforward.blogs
 
 Some of these have been done, but that's no reason not to think about or investigate them.  If you're interested in working on one of these, take it and have fun.  If you want a collaborator, [let me know](http://mikejanger.net).
 
+## In the Mood
+Given a target mood, this service finds books, movies, music, etc. to match your mood.
+
 ## Storytellers
 Connect with up to 3 others and collaboratively build a story by taking turns writing in units of paragraph, sentence, or word.  Once the story is finished, publish it to a reading section of the site for others to read. 
 
