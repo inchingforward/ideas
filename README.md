@@ -5,6 +5,9 @@ Just some app ideas I've had.  I wrote a [blog post](http://inchingforward.blogs
 
 Some of these have been done, but that's no reason not to think about or investigate them.  If you're interested in working on one of these, take it and have fun.  If you want a collaborator, [let me know](http://mikejanger.net).
 
+## Word Auction 
+An author signs up for this site and presents a list of article/tutorial/post ideas for readers to choose from.  Readers choose the next article/tutorial/post during a set number of days by voting with their wallets.  The item that garners the most money wins, and the author writes the material and publishes it on the site. 
+
 ## In the Mood
 Given a target mood, this service finds books, movies, music, etc. to match your mood.
 
