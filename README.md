@@ -5,6 +5,9 @@ Just some app ideas I've had.  I wrote a [blog post](http://inchingforward.blogs
 
 Some of these have been done, but that's no reason not to think about or investigate them.  If you're interested in working on one of these, take it and have fun.  If you want a collaborator, [let me know](http://mikejanger.net).
 
+## Knowledge Path
+A site that categorizes learning topics based on the Dreyfus model of skill acquisition.  Sources of information are entered based on a topic (Clojure programming, which could also be further refined to "web -> security", etc) and categorized into one of the Dreyfus phases of skill acquisition (Novice, Advanced Beginner, Competent, Proficient, Expert).  The site should provided guided structure through the various levels:  learners should be presented with content/tracks along with "I read this/I watched this" buttons to help guage where they are.  There's an abundance of newbie-level content and expert content, but how to you find the stuff that bridges the gap?  How do you find the things that you *should* know to get you to the next level?  How to curate content?
+
 ## Word Auction 
 An author signs up for this site and presents a list of article/tutorial/post ideas for readers to choose from.  Readers choose the next article/tutorial/post during a set number of days by voting with their wallets.  The item that garners the most money wins, and the author writes the material and publishes it on the site. The author gets the majority of the funds raised and owns the article/tutorial/post. 
 
