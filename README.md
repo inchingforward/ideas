@@ -5,6 +5,9 @@ Just some app ideas I've had.  I wrote a [blog post](http://inchingforward.blogs
 
 Some of these have been done, but that's no reason not to think about or investigate them.  If you're interested in working on one of these, take it and have fun.  If you want a collaborator, [let me know](http://mikejanger.net).
 
+## Family Events
+A social network app for families. Create an account for your family, private by default.  Add members, then add events and tag them with the family members they apply to.  Collect text, photos, videos, sound bites, etc.
+
 ## Clojure Firehose
 A site that gathers Clojure news from several sources (RSS, Github projects, Twitter, etc) and presents them as a live feed to a CLJS front-end. 
 
