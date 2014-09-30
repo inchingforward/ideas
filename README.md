@@ -5,6 +5,9 @@ Just some app ideas I've had.  I wrote a [blog post](http://inchingforward.blogs
 
 Some of these have been done, but that's no reason not to think about or investigate them.  If you're interested in working on one of these, take it and have fun.  If you want a collaborator, [let me know](http://mikejanger.net).
 
+## Fn of the Day/Week
+A daily/weekly email that picks a function in the core library and explains it fully.  The explanation should contain the following:  source (including doc string), a longer explanation, and some examples.  The email should contain a discussion link that links back to a forum/channel created or that function.  Something like [Discourse](http://www.discourse.org/).  Does a reader signing up get the first email or the current one?
+
 ## Family Events
 A social network app for families. Create an account for your family, private by default.  Add members, then add events and tag them with the family members they apply to.  Collect text, photos, videos, sound bites, etc.
 
