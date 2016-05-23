@@ -5,6 +5,18 @@ Just some app ideas I've had.  I wrote a [blog post](http://inchingforward.blogs
 
 Some of these have been done, but that's no reason not to think about or investigate them.  If you're interested in working on one of these, take it and have fun.  If you want a collaborator, [let me know](http://mikejanger.net).
 
+## Code Challenge Index
+There are a bunch of quality [coding](https://www.hackerrank.com) [challenge](https://www.codingame.com) [sites](http://theaigames.com) (way more than just these) out there now.  This site would catelog/categorize them and provide a place to discuss them.
+
+## Reading Challenge
+A site that has you create a list of books ([Amazon 100](http://www.amazon.com/b?node=8192263011), [Edgar](http://www.theedgars.com) Winners, 2016 Summer Reads, etc) as a reading challenge.  Allow other readers to attempt the list and discuss the books in it.  Goodreads users ask for this in the feature requests.
+
+## Local Reads
+An app/plugin that shows where you can buy a book on Amazon locally.
+
+## Community Calendars
+The calendars that you find on most web sites are pretty lame.  This site would allow you to create a community calendar and embed it on your site in a style that fits your layout.  Features include opening the calendar to the community, allowing them to enter events that can be approved, email notifications, sharing, etc.  Imports would be allowed from a variety of sources (google, ical, etc).
+ 
 ## Bug Mentor
 A bug tracking system with a focus on making it easy for others to contribute.   I've looked at a few large open source projects for places to help out and they are an absolute mess when it comes to shepherding potential developers into their environment/ways of doing things/tooling.  There are some sites out there that help devs get involved by scouring bug tracking systems for issues marked newbie-friendly, but I'd rather see a solution closer to the problem--something that eliminates as many barriers to entry as possible. 
 
