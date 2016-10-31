@@ -69,7 +69,7 @@ Given your account, this site uses the Goodreads API to find other users that ra
 Email newsletters have taken off in popularity.  This service aggregates all of your newsletters in one place.  Sign up for an account and the service will supply you with an email address to use when signing up for newsletters.  The aggregator then provides you with an interface for reading/managing/tagging/searching your newsletters.
 
 ## Monument
-Memories for locations.  Search for a location on a map and add a memory (anonymously if you want) about that particular place/establishment/location.  Flaco's Tacos, I still miss you.
+Memories for locations.  Search for a location on a map and add a memory (anonymously if you want) about that particular place/establishment/location.  Flaco's Tacos, I still miss you.  [Implemented!](http://monument.mikejanger.net/)
 
 ## IT Interview Quiz
 A site that quizzes you on those silly puzzles (and/or useful CS theory) that some companies use to filter the hiring pool.  Submit answers to quizzes (anonymously if you want) and have them reviewed/rated by others and learn from other member's submissions.  This is kind of an [Exercism.io](http://exercism.io) for theory.
